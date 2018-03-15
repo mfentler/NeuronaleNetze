@@ -1,0 +1,6 @@
+﻿  Quelle.cpp
+Quelle.cpp(39): warning C4101: "n": Unreferenzierte lokale Variable
+  Code wird generiert.
+  Codegenerierung ist abgeschlossen.
+  All 135 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  HelloWorld.vcxproj -> C:\Users\mario\source\repos\HelloWorld\Release\HelloWorld.exe

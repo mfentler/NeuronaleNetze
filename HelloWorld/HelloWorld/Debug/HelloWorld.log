@@ -1,0 +1,4 @@
+﻿  Quelle.cpp
+c:\users\mario\source\repos\helloworld\helloworld\quelle.cpp(39): warning C4101: "n": Unreferenzierte lokale Variable
+  HelloWorld.vcxproj -> C:\Users\mario\source\repos\HelloWorld\Debug\HelloWorld.exe
+  HelloWorld.vcxproj -> C:\Users\mario\source\repos\HelloWorld\Debug\HelloWorld.pdb (Partial PDB)
